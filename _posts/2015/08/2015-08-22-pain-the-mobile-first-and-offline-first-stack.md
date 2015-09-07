@@ -4,6 +4,13 @@ title: 'PAIN, the Mobile-first and Offline-first stack'
 tagline: v0.0.9
 description: 'Introduction to the PAIN stack, which allow for rapid prototyping of client-side mobile app as well as minimal server side task. PAIN stands for PouchDB, Angular, Ionic and Nodejs.'
 date: '2015-08-22 12:44'
+categories:
+  - pain
+tags:
+  - pouchdb
+  - angular
+  - ionic
+  - nodejs
 ---
 
 Last five year of the 21st century's 2nd decade educated the world (or humans on Earth) how to delete an app. People are seeing the value of their apps. Useless apps are erased, removed, and crushed everyday. And thus, the war for that `44px` parking lot keeps on going.
