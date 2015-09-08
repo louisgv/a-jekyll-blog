@@ -4,7 +4,7 @@ title: 'Excite: Publish something before you die'
 date: '2015-09-07 23:07'
 ---
 
-It's been three months with jabSquared, things are getting tightened. The family has been growing a cultural where people could have fun while also manage to get things done. We just published `unifiesta` on the G marker. A is bouncing back some `c` trouble, hope they could cut us some slack.
+It's been three months with jabSquared, things are getting tightened. The family has been growing a culture where people could have fun while also manage to get things done. We just published `unifiesta` on the G marker. A is bouncing back some `c` trouble, hope they could cut us some slack.
 
 Notoriously, the family are scaling at a very healthy, pleasant pace, where core developers have time to learn more skill, and relationship get the necessary time to develop, tightened and evolve.
 
