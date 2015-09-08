@@ -12,13 +12,8 @@ My brothers have been learning. I am proud that they have picked up the habit of
 
 `Opinion` varies by perspectives due to relativity.
 
-Pre-indexed Internet, these are several walls of thought:
+Thanks to the indexed web, learning through sheer research should have been obviously possible, if not because of those Academichoes who proposed a problem, while refuse to help fix it. The problem? The Internet is not a good source for knowledge. Or you peasant cannot read past the first result.
 
-1. Searching to deep learning was not viable due to saturated resources
-2. Low level near-by-peers, connection with high level peer is slow
-3. People did not observe the world with a clear common vision
-4. Mass opinion sharing was impossible
 
-Post-indexed Internet, most issues above was solved. There is now a way to
 
- Thus, to best leverage way to learn from search, is to look for `three` options. The truth is not generalized. The truth is formalized. Each person themselves embrace their own truth.
+Thus, to best leverage way to learn from search, is to look for `three` options. The truth is not generalized. The truth is formalized. Each person themselves embrace their own truth.
