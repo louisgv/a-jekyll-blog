@@ -38,7 +38,28 @@ Error running gulp sass
 
 Basically, gulp sass failed, no more styling! The issue is boiled down to deprecated middle-wares which were compiled using an older version of the C library packed with the previous Node. To solve this issues, first in your project directory run `rm -rf node_modules` to remove all local node modules.
 
-Now to kill the sass problem, run `npm install gulp-sass --save-dev`, which hopefully will install the correct version of sass and node-sass.
+Now to kill the sass problem. Open the `package.json` file and remove the `gulp-sass` entry from the dependencies. E.g, your `package.json` might look like this (_note_: `Regex` rule, everything could be represented by `*`):
+
+```
+{
+  "name": "*",
+  "version": "*",
+  "description": "*",
+  "dependencies": {*},
+  "devDependencies": {
+    "bower": "^1.3.3",
+    "gulp-sass": "^2.0.4",
+    "gulp-util": "^2.2.14",
+    "shelljs": "^0.3.0"
+  },
+  "cordovaPlugins": [*],
+  "cordovaPlatforms": []
+}
+```
+
+Just highlight the whole line that has `gulp-sass` and do a `Backspace`.
+
+Then run `npm install gulp-sass --save-dev`, which hopefully will install the correct version of sass and node-sass.
 
 Lastly, do `npm install` to re-install the node_modules folder with the new node.
 
