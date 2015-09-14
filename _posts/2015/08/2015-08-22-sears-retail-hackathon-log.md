@@ -10,6 +10,8 @@ categories:
   - logging
 ---
 
+Details of the whole thought process when I was hacking at the Sears Hackathon. For every one-two hours, I will make a summary of what the process is, and what my decision will be. Enjoy!
+
 # Product
 
 [final build][47e18354]
