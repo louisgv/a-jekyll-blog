@@ -2,6 +2,7 @@
 layout: post
 title: 'In the lab: I <3 LMDE'
 date: '2015-08-22 11:02'
+photo_url : /www/img/2015/08/os_lmde.png
 tags:
   - lmde
   - taste-test
