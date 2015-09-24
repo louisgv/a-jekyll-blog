@@ -10,37 +10,57 @@ categories:
   - linux
 ---
 
-A tutorial on installing LMDE the way we have done it in the (private) lab.
+A tutorial on installing LMDE the way we have done it in our lab.
 
 # Preparation
 
-+ A PC. Wise guy should try with a virtual machine (VM). Have your virtual box up and make a simple Linux vdi with 1 to 2GB of RAM and 10GB of memory.
+This tutorial requires a spare PC (spare means you are allowed to make a `Will it blend` video with it). Wise guy should try first with a virtual machine (VM). Recommended setup for a VM is a simple Linux VDI with 1GB of RAM and 10GB of memory.
 
-+ LMDE disc which can be found [here](http://www.linuxmint.com/download_lmde.php). If using a VM google for a tutorial on how to use the iso directly. If you do it with a real machine, your best bet is to make a bootable USB. For a bootable USB to install, on Windows use Universal Boot something. On Linux, dd.
+Get the LMDE disc [here](http://www.linuxmint.com/download_lmde.php).
 
-# Partition
++ If **using VM**, search for a tutorial on how to setup the iso.
++ If **using a real machine**, make a bootable USB.
+  + On Linux, use `dd`
+  + On Windows, make sure you use `Universal USB Booting`, not `YUME` since YUME is designed to test the distro, not to install.
 
-+ In the lab we have tons of data that need to be separated from the system, such that whenever the system broke down, the data still remain safe. Thus, knowing how to partition your drive in order to setup that schema is extremely important.
+# Path Definition
 
-+ The way partition in a linux system work is by mounting it into the right path. Following are the important path that you should know:
+In the lab, tons of data are separated from the main operating system (OS), such that even when the OS is down, the data is still safe and sound. Drive partitioning the right way will allow future recovery, backup and upgrade session pain-less.
+
+Partitioning works only when one are aware of the following `important path`:
+
 
 ```
-  '/' : The root path. This should contains all the system stuff, such that the path be short and easy for the system to use.
-  '/home' : The path where all your data should reside.
-  '/tmp' : All the temporary files reside here.
-  ---
-  '/boot' : The boot path comprise your boot images (vid and img)
-  '/boot/efi' : The efi software that take care of booting your system, call it the middle layer, boot layer.
-  ---
-  '/usr' : Any configuration and packages installed for the user reside here
-  '/bin' : Most system program that the system depend on to bootup resides here
-  '/usr/sbin' : Most program that only sudo user can use resides here
-  '/usr/bin' : Programs that regular user can use is here
-  '/etc' : system-wise setting for devices, programs, and so on resides here.
-  '/opt' : all optional stuffs reside here.. although I doubt anyone'd use it...
+  --- BASIC
+  '/' : The $ROOT path. The uppermost path, the mother path.
+  '/home' : The $HOME path where all your data, node_modules, go, etc... should reside.
+  '/tmp' : The $TMP path where all temporary files should reside.
+
+  --- BOOT
+  '/boot' : The $BOOT path comprise your boot images (vid and img)
+  '/boot/efi' : The $EFI path contains software that take care of dealing with your UEFI system.
+
+  --- EXECUTABLE
+  '/usr' : The $USER path. Any configuration and packages installed for all user resides here
+  '/bin' : The $BIN path contains only binary program that can be called.
+  '/usr/sbin' : The $SBIN path contains program that only super user (sudo) can call
+  '/usr/bin' : The $UBIN path contains programs that all user can call
+  '/opt' : The $OPT path contains optional programs installed by the user. Programs resides here is not depended by the OS and are generally stand-alone.
+
+  --- CONFIG
+  '/etc' : The $ETC path contains system-wise setting for devices, programs, booting, etc...
+
 ```
 
-+ For performance in the web era, make your home directory double or at least equal to the size of your root partition. Installing outside library in your '/' only when it's related to the system, and you would be safe and sound. The best thing about this setup, is that all your work-related software are safe and sound even if the main system suddenly die because you tried to install glib and it outright kill your system right in front of your eye.
+# Partition Schema
+
+In the lab, we use GPT partition table as it offers more than just 4 primary
+
+
+
++ For ease of use, make your $HOME double the size of your $ROOT.
+
++ Installing software packages outside library in your $ROOT only when it's related to the system, and you would be safe and sound. The best thing about this setup, is that all your work-related software are safe and sound even if the main system suddenly die because you tried to install glib and it outright kill your system right in front of your eye.
 
 + Installing rEFInd
 + Copy rEFInd to /boot
