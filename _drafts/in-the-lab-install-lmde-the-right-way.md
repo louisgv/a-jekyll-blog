@@ -10,13 +10,13 @@ categories:
   - linux
 ---
 
-Here comes a tutorial which tell the world of installing LMDE the way we've done it in the lab.
+A tutorial on installing LMDE the way we have done it in the (private) lab.
 
 # Preparation
 
-+ A 2 years old PC. Wise guy should try the If you wanna try this with vm, have your virtual box up and make a simple linux vdi with 1 to 2GB of RAM and 10GB of memory.
++ A PC. Wise guy should try with a virtual machine (VM). Have your virtual box up and make a simple Linux vdi with 1 to 2GB of RAM and 10GB of memory.
 
-+ LMDE iso which can be found [here](LMDE link). If using VM google for a tutorial on how to use the iso directly. If you do it with a real machine, your best bet is to make a bootable USB. For a bootable USB to install, on Windows use Universal Boot something. On Linux, dd.
++ LMDE disc which can be found [here](http://www.linuxmint.com/download_lmde.php). If using a VM google for a tutorial on how to use the iso directly. If you do it with a real machine, your best bet is to make a bootable USB. For a bootable USB to install, on Windows use Universal Boot something. On Linux, dd.
 
 # Partition
 
@@ -40,11 +40,9 @@ Here comes a tutorial which tell the world of installing LMDE the way we've done
   '/opt' : all optional stuffs reside here.. although I doubt anyone'd use it...
 ```
 
-+ For performance in the web era, make your home directory double or at least equal to the size of your root partition. Installing outside library in your '/' only when it's related to the system, and you would be safe and sound. The best thing about this setup, is that all your work-related software are safe and sound even if the main system suddenly die because you tried to install glib and it outright kill your system right infront of your eye.
++ For performance in the web era, make your home directory double or at least equal to the size of your root partition. Installing outside library in your '/' only when it's related to the system, and you would be safe and sound. The best thing about this setup, is that all your work-related software are safe and sound even if the main system suddenly die because you tried to install glib and it outright kill your system right in front of your eye.
 
 + Installing rEFInd
 + Copy rEFInd to /boot
 
 # Customization
-
-#
