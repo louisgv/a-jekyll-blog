@@ -29,10 +29,9 @@ In the lab, tons of data are separated from the main operating system (OS), such
 
 Partitioning works only when one are aware of the following `important path`:
 
-
 ```
   --- BASIC
-  '/' : The $ROOT path. The uppermost path, the mother path.
+  '/' : The $ROOT path. This path contains everything.
   '/home' : The $HOME path where all your data, node_modules, go, etc... should reside.
   '/tmp' : The $TMP path where all temporary files should reside.
 
