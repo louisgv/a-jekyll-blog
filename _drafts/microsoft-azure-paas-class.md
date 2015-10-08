@@ -28,3 +28,4 @@ Question:
 + Differentiate from
 + Short term
 + PowerBI alternative on IBM?
+  + Collect data to Cloudant's couchdb then using DashDB
