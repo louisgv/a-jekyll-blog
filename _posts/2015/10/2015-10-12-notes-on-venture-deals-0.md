@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Notes on Venture Deals C.1"
-date: "2015-10-12 21:03"
+title: Notes on Venture Deals 0.1
+date: '2015-10-12 23:11'
 ---
 
 ```

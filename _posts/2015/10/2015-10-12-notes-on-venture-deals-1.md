@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Notes on Venture Deals C2"
-date: "2015-10-12 22:38"
+title: Notes on Venture Deals 0.2
+date: '2015-10-12 23:11'
 ---
 
 # Looking for VC

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Note on Venture Deals C3"
-date: "2015-10-12 22:38"
+title: Note on Venture Deals 0.3
+date: '2015-10-12 23:12'
 ---
 
 # Price || Valuation
@@ -44,3 +44,34 @@ date: "2015-10-12 22:38"
 # Focus on what you can Control
 
 > Never take valuation personally. People are negotiating a deal to their advantage.
+
+```
+liquidation : $$$
+IPO: Just another round of funding (JAROF)
+```
+Participation feature has a lot of impact at relatively low outcomes and less impact at higher outcomes.
+
+# Pay-to-Play
+
+> Avoid the scenario where VC has the right to force a recapitalization of the company if **fellow** investors bailed
+
+Have an appropriate conversion to common for lack of follow-on investment
+
+# Vexting
+
+Time contract: investor must not bail within X Years to keep full share.
+
+# Antidilution
+
+> Wighted average Antidilution: If newer price is lower, earlier price is reduced to the new lower price.
+
+> Ratchet-based Antidilution:
+
+```
+**NCP** : new conversion price
+**OCP** : old conversion price
+**CSO** : common stock outstanding
+**CSP** : common stock purchasable
+**CSAP**: common stock actually purchased
+NCP = (CSO + CSP)/(CSO + CSAP) * OCP
+```
