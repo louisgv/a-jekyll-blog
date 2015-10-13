@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on Venture Deals 0.2
+title: Notes on Venture Deals 1
 date: '2015-10-12 23:11'
 ---
 
