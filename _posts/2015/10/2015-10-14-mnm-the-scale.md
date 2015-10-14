@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Mnm: the Scale"
-date: "2015-10-07 21:55"
+title: 'Mnm: the Scale'
+date: '2015-10-14 14:41'
 ---
 
 There are 3 kind of scale, take C as an example, we have: **Major (CM7)**, **neutral (C7)** and **minor (Cm7)**.
