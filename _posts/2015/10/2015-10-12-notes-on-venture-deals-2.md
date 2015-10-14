@@ -28,6 +28,7 @@ date: '2015-10-12 23:12'
 ```
 
 # Numbers:
+
 ```  
   + Past performance (chart, graph)
   + Predictions of future revenue
@@ -55,7 +56,7 @@ Participation feature has a lot of impact at relatively low outcomes and less im
 
 > Avoid the scenario where VC has the right to force a recapitalization of the company if **fellow** investors bailed
 
-Have an appropriate conversion to common for lack of follow-on investment
+Have an appropriate conversion to common stock for lack of follow-on investment
 
 # Vexting
 
@@ -63,7 +64,7 @@ Time contract: investor must not bail within X Years to keep full share.
 
 # Antidilution
 
-> Wighted average Antidilution: If newer price is lower, earlier price is reduced to the new lower price.
+> Weighted average Antidilution: If newer price is lower, earlier price is reduced to the new lower price.
 
 > Ratchet-based Antidilution:
 
