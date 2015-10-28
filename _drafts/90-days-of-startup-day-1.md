@@ -12,7 +12,7 @@ I have decided to officially kick off my startup company. We are working on a di
   Sarah is an AI that collects your Personal Health Record (PHR) through a friendly conversation.
 ```
 
-Digital PHR is nothing new. According to Wikipedia, the oldest mention of PHR was from 1902. However, most white paper on the subject are dated after 2000. Thus, the curve jumping is happening for the medical health-care industry. Medical data is being transfered from the hospital to the patients' pocket device.
+Digital PHR is nothing new. According to Wikipedia, the oldest record of PHR was from 1902. However, most white paper on the subject are dated after 2000. Thus, the curve jumping is happening for the medical health-care industry. Medical data is being transfered from the hospital to the patients' pocket device.
 
 Direct consumer solution model allows for a flexible iteration work-flow. In this model, the MVP improve as we gather more user feedback at early stage. The only catch is that future adoption cost will be relatively high. But I think we need more experimentation.
 
