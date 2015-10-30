@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "90 Days Of Startup: Day 1"
+title: "90 Days of Startup: Day 1"
 date: "2015-10-27 02:49"
 ---
 
