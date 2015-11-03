@@ -4,7 +4,9 @@ title: '90 Days of Startup: Day 3'
 date: '2015-11-02 19:45'
 ---
 
-  Wednesday, third day of Startup Week, I went to the Impact Hub with @sanoy and met [Swatee Surve](https://www.linkedin.com/in/swatee). Her company [Litesprite](https://litesprite.com/), was [mentioned on the Seattle Times](https://bit.ly/1Wguvfm). She also organized the health track for @SEAStartupWeek. We had a great q/a session surrounding the digital health care industry as well as [Sarah](https://hisarah.meteor.com), a simple, friendly & natural personal health record that I was working on.
+  Wednesday, third day of Startup Week. Met Josh and Andy at the hub 'as usual'. Listening to a pretty interesting marketing talk. Then @sanoy joined the team.
+
+  Afternoon, I went to the Impact Hub with @sanoy and met [Swatee Surve](https://www.linkedin.com/in/swatee). Her company [Litesprite](https://litesprite.com/), was [mentioned on the Seattle Times](https://bit.ly/1Wguvfm). She also organized the health track for @SEAStartupWeek. We had a great q/a session surrounding the digital health care industry as well as [Sarah](https://hisarah.meteor.com), a simple, friendly & natural personal health record that I was working on.
 
   After having listened to my pitch, Swattee gave me three suggestions. First, I should solidify the problem, Sarah seems too broad. I should narrow Sarah down to solve one definite problem. Second, I should investigate on how geo-location could influences Sarah's behavior. Third, I need to do more outreach with potential customer to investigate the model and work-flow that they conform to. Available models include small clinic, big hospital, treatment center, and direct consumer? She suggested that for Sarah's case, I should reach out to small clinic and interviewing nurses as they might contribute some valuable information.
 

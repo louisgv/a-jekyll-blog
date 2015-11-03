@@ -4,7 +4,22 @@ title: '90 Days of Startup: Day 2'
 date: '2015-11-02 19:44'
 ---
 
-Met Josh Maher at Angel advice conference at Zillow, @sanoy brought his book, Startup Wealth. Skimmed through 300 pages, here are some interesting details for `entrepreneur`:
+# Diversity talk at Impact hub
+
+Interesting talk. One take-away lesson: food is the best gate-way for diversifying your company.
+Meet with [Yashar](https://www.linkedin.com/in/yasharf). Followed him to the market research talk.
+
+# Marketing talk at Surf Incubator
+
+Interesting talk. There are ways to do marketing research prior to product launch. In this particular case, it is beta-launch procedure.
+
+# Angel advice conference at Zillow
+
+Walking to Zillow, met [Rebecca Lovell](https://www.linkedin.com/in/rebeccalovell). She was walking toward some other talk. Have some walking chat, and part way by Zillow.
+
+Met [Nick Hughes](https://www.linkedin.com/in/jnickhughes), a pretty cool dude who was in charge of the Angel talk Panel. As Andy was talking to him, he seems to have some interesting stuffs that he might need some partners. Interesting...
+
+Met [Josh Maher](https://www.linkedin.com/in/joshuamaher), @sanoy brought his book, [Startup Wealth](http://joshmaher.net/2015/10/13/official-launch/). Skimmed through some pages, here are some interesting details for `entrepreneur`:
 
 # David Verrill
  40% investment turned into positive round.  Charirman emeirtus of th eboard at the Anngel Capitcal association  Went to MIT  Compatnies interested in:
