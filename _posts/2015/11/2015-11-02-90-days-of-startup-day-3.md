@@ -33,3 +33,9 @@ On the policy problem, Swatee and Frank recommended us to look at available serv
 On the other hand, how can Sarah make-use of the available data out there?
 
 Anyway, that was a fun conversation...
+
+# Hack-the-dot Hackathon
+
+Meeting all the familiar faces here, including Josh, Andy and Lee. Also, [Diana]() the AR woman is also here (and seems like she left mid-way...)
+
+Pretty cool hack overall, got to meet some people.

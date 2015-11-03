@@ -10,6 +10,18 @@ Met Andy and Josh at the Hub, listening to Diversity talk.
 
 Met Lee (@leepngo), pretty cool guy, working with Galvanize. Advised that before pitching to people, better ask what they do first before letting the humble/hustle chime in. As Lee is interested in education, he wouldn't be of use when talking about Sarah either.
 
+Met with Leo. He was pretty cool as well, gave some insight on how to investigate customers.
+
+Went to Coffee with Andy, leaving passed out @Sanoy at Galvanize. Lee will take care of him for sure. Met Frank there. Made some mistake last week (catching up and missed appoinment). He was cool however, saying "It's good that you guys take responsibility for mistakes." However due to chatting with Frank, Andy just went on and paid for the coffee and snacks. (Sorry Andy, next time it's on me).
+
+Went back to Galvanize for a mentor talk about inclusion and expansion of the startup area in Seattle. Met David. He was pretty cool.
+
+Panel includes David, Rebecca, Frank and Ruby.
+
+Stayed and talk with David and Frank. David brought up the issue of how maker space doesn't have the look and feel of an apple store. Frank loves the idea, and told David to link up soon on the idea.
+
+David is passionate about starting a diversified maker space. Sounds cool!
+
 I have decided to officially kick off my startup company. We are working on a digital health care project codenamed `Sarah`. The idea was coined internally with @sanoy two weeks ago. After a brief interview last Friday with three individuals (including a colonial cancer doctor), I decided to revamp the idea to be a more focused and more viable one:
 
 ```
