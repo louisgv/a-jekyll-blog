@@ -2,6 +2,7 @@
 layout: post
 title: 90 Days of Startup Day 9
 date: '2015-11-03 15:51'
+photo_url: /www/img/2015/11/Sarah.png
 ---
 
 Wake up at 5...
