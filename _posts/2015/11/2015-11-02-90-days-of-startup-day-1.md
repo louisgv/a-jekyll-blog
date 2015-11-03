@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "90 Days of Startup: Day 1"
-date: "2015-10-27 02:49"
+title: '90 Days of Startup: Day 1'
+date: '2015-11-02 19:25'
 ---
 
 Seattle Startup Week is happening.
