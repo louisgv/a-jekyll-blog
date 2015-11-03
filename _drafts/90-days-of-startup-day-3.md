@@ -4,16 +4,15 @@ title: "90 Days of Startup: Day 3"
 date: "2015-10-28 12:01"
 ---
 
-Went to Impact hub, met [Swatee Surve](). Her company [Cambia Grove](), was [mentioned on the Seattle Times](https://bit.ly/1Wguvfm). She also organized the health track for @SEAStartupWeek.
+Wednesday, third day of Startup Week, I went to the Impact Hub with @sanoy and met [Swatee Surve](). Her company [Cambia Grove](), was [mentioned on the Seattle Times](https://bit.ly/1Wguvfm). She also organized the health track for @SEAStartupWeek. We had a great q/a session surrounding the digital health care industry as well as [Sarah](https://hisarah.meteor.com), a simple, friendly & natural personal health record that I was working on.
 
-We had a great q/a session surrounding the digital health care industry as well as [Sarah](), an Universal Health Record that I am working on. Brief outline before Frank, investor from friendly mentor, came by and join the conversation:
+After having listened to my pitch, Swattee gave me three suggestions. First, I should solidify the problem, Sarah seems too broad. I should narrow Sarah down to solve one definite problem. Second, I should investigate on how geo-location could influences Sarah's behavior. Third, I need to do more outreach with potential customer to investigate the model they conform to. Available models include small clinic, big hospital, treatment center, and direct consumer? She suggested that for Sarah's case, I should reach out to small clinic and interviewing nurses as they might contribute some valuable information.
 
-+ The problem that Sarah is trying to solve is not yet solidified. A suggestion would be
+Frank came by, and joined the conversation.She also corrected
+
 + Geo-location is a deciding factor:
   + Be mindful about different area
 + Enterprise product will need to conform with many policy.
-+ Go outreach with potential customer and investigate the model they conform to. Small clinic, big hospital, treatment center, or direct consumer?
-  \---> **Suggestion:** Reach out to small clinic and interviewing nurses as they might contribute some valuable information.
 + Research the model that Sarah will go with, extensively.
 + For Direct Consumer (DC) product, two model:
   + One-shot iteration where user will likely to have a mindset of being "forced to use the product".
