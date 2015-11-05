@@ -38,4 +38,6 @@ Anyway, that was a fun conversation...
 
 Meeting all the familiar faces here, including Josh, Andy and Lee. Also, [Diana]() the AR woman is also here (and seems like she left mid-way...)
 
-Pretty cool hack overall, got to meet some people.
+Pretty cool hack overall, got to meet with Shet, Ara and Chris. Ara's pitch was really cool, it literally skull-f*ed everyone in the room.
+
+Anyhow, we got 3rd place! Fancy stuff. Split with @sanoy, walked with Andy, Yasha and Josh.
