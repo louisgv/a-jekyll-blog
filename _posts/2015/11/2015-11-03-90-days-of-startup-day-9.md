@@ -10,7 +10,7 @@ Then dozing up and down till 9
 
 Improving Sarah. Working with Kawan to improve Sarah ability. Kawan is good at writing.
 
-Setting up Sarah landing page's animation using [Hover](http://ianlunn.github.io/Hover/), a great library. recomened way to use is to extract just the animation needed and put it in the CSS, in Sarah case, a global \_animation.css file.
+Setting up Sarah landing page's anigimation using [Hover](http://ianlunn.github.io/Hover/), a great library. recomened way to use is to extract just the animation needed and put it in the CSS, in Sarah case, a global \_animation.css file.
 
 The following property need to be researched for Bluemix Dialog services:
 
