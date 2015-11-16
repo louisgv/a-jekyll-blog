@@ -59,4 +59,6 @@ All of these activities just please the mind or the body but does not contribute
 
 Two ways: Sleep on a schedule that adjust with your situation, or Sleep Periodically.
 
-Scheduled Sleep: Strict calendar, setup your time so you have at least 9 hours of sleep. However, calibrate yourself. When are you the most productive? Is it 9am - 9pm or is it from 9pm-9am?
+Scheduled Sleep: Strict calendar, setup your time so you have at least 9 hours of sleep. However, calibrate yourself. When are you the most productive? Is it 9am - 9pm or is it 9pm-9am? Lots of hacker tend to hack at night because they feel more secure as well as a more positive thinking that of coolness. However, there does exist hackers that hack in the morning as well.
+
+Sleep Periodically: Use your short breaks to take naps or meditate. This helps a lot in cleansing your toxic mind.
