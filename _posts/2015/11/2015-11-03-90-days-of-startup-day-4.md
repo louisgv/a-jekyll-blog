@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 days of startup day 4
-date: '2015-11-03 11:53'
+date: '2015-10-29 11:53'
 ---
 
 Crunching the book with @sanoy.

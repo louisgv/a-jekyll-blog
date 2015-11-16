@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 Days of Startup Day 8
-date: '2015-11-03 11:59'
+date: '2015-11-02 11:59'
 ---
 
 + Preparing to Ship the first week...

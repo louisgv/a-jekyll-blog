@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 Days of Startup Day 7
-date: '2015-11-03 11:58'
+date: '2015-11-01 11:58'
 ---
 
 Went to Hacker House. Some presentation. Had a blast with some friends.

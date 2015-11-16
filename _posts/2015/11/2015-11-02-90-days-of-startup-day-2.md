@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '9 Days of Startup: Day 2'
-date: '2015-11-02 19:44'
+date: '2015-10-27 19:44'
 ---
 
 # Diversity talk at Impact hub

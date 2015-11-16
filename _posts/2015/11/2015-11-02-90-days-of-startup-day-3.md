@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '9 Days of Startup: Day 3'
-date: '2015-11-02 19:45'
+date: '2015-10-28 19:45'
 ---
 
   Wednesday, third day of Startup Week. Met Josh and Andy at the hub 'as usual'. Listening to a pretty interesting marketing talk. Then @sanoy joined the team.
