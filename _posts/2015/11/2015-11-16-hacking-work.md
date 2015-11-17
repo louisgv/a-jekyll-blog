@@ -16,9 +16,9 @@ A common trend I observed when making decision is that people tends to give them
 
 Using time to increase moral of the team is also crucial, given that you are good enough and can take the hacking load. A good startup with great leader often churn out very inspireful virtual deadline. A lot of hackers strive for 9 hours a feature simply because they know the tool fairly well. This translate to a feature per day, which realistically is possible for very good hackers who know how to jump over problems and so on!
 
-# Hack your Free-time
+# Hack your Hobby
 
-Human need rest. As a hacker, even if you think you don't need rest, you do, so take it periodically. You don't want a malfunction brain. You want to increase productivity. You don't want an unhealthy body. You want to enjoy life after this. And you surely don't want a dry dick/virgina. You need a great sex life once your company got acquired. So, what should you do?
+Human need rest. As a hacker, even if you think you don't need rest, you do, so take it periodically. You don't want a malfunction brain. You want to increase productivity. You don't want an unhealthy body. You want to enjoy life after this. And you surely don't want a dry dick/virgina. You need a great sex life once your company went IPO or got acquired && you got back at least 1M in return. So, what should you do?
 
 First, change yourself, your hobbies, your interest, such that it all align with your startup || goal. A software/game startup? Make you hobby working on tutorial/ learning more about dev tips and trick, or exeprience the role of the sale guy. A hardware startup? Make your hobby fixing stuffs, DIY, etc... Make yourself enjoy these activity, punish your soul into liking these hobby. You need it to make your first hundred thousand bucks.
 
@@ -34,31 +34,49 @@ Divide your day into hour blocks, and train your rhythm to notice that a certain
 
 Keeping a diary of thought is a good idea. Even if you don't have time, try to have a note book in your pocket. At the end of the day, jot them down, with dates and location. This help organizing your thought so you can feel more comfortable meditating.
 
-In the lab, we try to spend at least 9 'productive' hours. This translate to a 18 'working' hours. The rest 6 hours is spend completely on deep sleep/rest, keep your brain tight that's all. Of course we do spend numerous weekends straight 45 hours no sleep hackathon, but doing so daily is not a very good idea as lack of sleep has proven to kill within 11 days, so technically with just sitting on our arses and working, I'd expect my cpu to crash on the 9th day.
+In the lab, we try to spend at least 9 'productive' hours. This translate to an 18 'working' hours. The rest 6 hours is spend completely on deep sleep/rest. Keep your brain tight.
 
-The 9 hours of productive work has to be extremely focus.  it should be scattered within a chunk of hour as said. But the expectancy of work that need to be done for the day has to reach at least 108% in order for your startup to thrive. The goal is very simple, each hours try to complete at least 11% of the workload that need to be done of that day, and you are good to take a break.
+Of course we do spend numerous weekends straight 45 hours no-sleep-hackathon, but doing so continuously is not a very good idea as lack of sleep has been clinicaly-proven to kill within 11 days. So technically with just sitting on my ass and hacking, I'd expect my CPU to crash on the 9th day.
 
-The other 9 hours however, one can spend it doing either of these thing:
+# Hack your Hour
 
-+ Doing a tutorial, a DIY project, or write a blog,or read a book, Mind training
-+ Run, Walk, Jump, outer-Body training
-+ Eat, Drink, inner-body training
-+ Meditation, Mind cleaning
-+ Restroom, inner-body cleaning
-+ Shower, outer-body cleaning
+The 9 hours of productive work has to be extremely focus. It should be divided into chunks of hour as said. But the expectancy of work that need to be done for the day has to reach at least 108% in order for your startup to thrive. The goal is very simple, each hours try to complete at least 11% of the workload that need to be done for that day, and you are good.
 
-These are the tasks that are most useful and allow for inner/outer body and mind training and cleaning which allow for a more productive body in a whole. If you train your mind to crave these activities, you will be a great entrepreneur. On the other hand, wantrepreuner loves spending time doing one of these thing:
+# Hack your Break
 
-+ Snacking - inner-body pleasing
-+ Sleeping - outer-body pleasing
-+ Entertainment (games of movies, etc...) - mind pleasing
+The other 9 hours however, one should spend moderately on either of these thing:
 
-All of these activities just please the mind or the body but does not contribute much to its growth. And some of them often lead to over-consumption, which can be a bad thing.
++ **Mind Training** : tutorial, DIY project, blog, or book reading
++ **Mind Cleaning** : meditation or short nap
+
++ **Body Training** : run, walk, jump, cycling
++ **Body Cleaning** : shower
+
++ **Innards Training** : eat moderately, drink a lot
++ **Innards Cleaning** : restroom
+
+These are the tasks that are the most useful in optimizing your growth. If you can train your mind to crave these activities, you will be a great entrepreneur. On the other hand, wantrepreuner loves spending time doing one of these thing:
+
++ **Mind pleasing** : entertainment (games, movies, etc...), or jacking off
++ **Body pleasing** : long nap / sleep
++ **Innards pleasing** : snacking
+
+All of these activities just please the mind or the body but does not contribute much to its growth. And some of them often lead to over-consumption, which can be a bad thing. However, if you chose to do one of these pleasing activity, analyze yourself, and if you say yes to one of these question, you are eligible to spend 9 minutes on one of those activity:
+
++ You are in huge stress due to family, relationship, social economic status...
++ You are horny || either having a boner or are really wet
++ You have not sleep for the past 90 hours
+
+If you think "because I have been eating good, or meditating, or body training lately that I `deserve` these pleasing activity," you are a wantrepreuner. Make your mind crave for thinking such as "Because I did a lot of work || I just generated 100k more value to my company || I finished the MVP a week before the deadline, I deserve some training/cleaning."
+
+Don't "deserve pleasing." Deserve the training and cleaning of your mind and body!
 
 # Hack your Sleep
 
 Two ways: Sleep on a schedule that adjust with your situation, or Sleep Periodically.
 
-Scheduled Sleep: Strict calendar, setup your time so you have at least 9 hours of sleep. However, calibrate yourself. When are you the most productive? Is it 9am - 9pm or is it 9pm-9am? Lots of hacker tend to hack at night because they feel more secure as well as a more positive thinking that of coolness. However, there does exist hackers that hack in the morning as well.
+## Scheduled Sleep:
+Strict calendar, setup your time so you have at least 9 hours of sleep. However, calibrate yourself. When are you the most productive? Is it 9am - 9pm or is it 9pm-9am? Lots of hacker tend to hack at night because they feel more secure as well as a more positive thinking that of coolness. However, there does exist hackers that hack in the morning as well.
 
-Sleep Periodically: Use your short breaks to take naps or meditate. This helps a lot in cleansing your toxic mind.
+## Sleep Periodically:
+Use your short breaks to take naps or meditate. This helps a lot in cleansing your toxic mind.
