@@ -79,4 +79,4 @@ Two ways: Sleep on a schedule that adjust with your situation, or Sleep Periodic
 Strict calendar, setup your time so you have at least 9 hours of sleep. However, calibrate yourself. When are you the most productive? Is it 9am - 9pm or is it 9pm-9am? Lots of hacker tend to hack at night because they feel more secure as well as a more positive thinking that of coolness. However, there does exist hackers that hack in the morning as well.
 
 ## Sleep Periodically:
-Use your short breaks to take naps or meditate. This helps a lot in cleansing your toxic mind.
+Use your short breaks to take naps or meditate. This helps a lot in cleansing your toxic mind. Control how and when you wake up is the key. So alarm or teammate are all good.
