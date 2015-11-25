@@ -8,7 +8,6 @@ Story:
 + Tweet at Nordstrom to get feedback and solution
 + Filter feedback and route them to the right people
 
-
 Question:
 
 + PaaS focused on Social Media?

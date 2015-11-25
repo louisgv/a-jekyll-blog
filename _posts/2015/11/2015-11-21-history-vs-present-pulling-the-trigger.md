@@ -22,6 +22,6 @@ If the answer was indeed A will not pull the trigger if he could learn that B is
 
 Maybe Facebook might save your ass one day... who know?
 
-Stray thought aside, solution to this problem is complicated. Sub-problems such as how data are shown, how it need to be curated, how the algorithm behind the scene works to encourage no killing works.
+Stray thought aside, solution to this problem is complicated. Sub-problems such as how data are shown, how it need to be curated, how the algorithm behind the scene works to encourage no killing works...
 
 But still, just some interesting thought.
