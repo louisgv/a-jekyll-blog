@@ -15,3 +15,14 @@ You don't want to make money once. You want to make money everyday.
 # Rant
 
 Making money by charging a lot of people within a long period is scalable. You can afford to lose money as well. If you can build the technology that back the tech, it is very easy to impress people and make money. There are a lot of people who are not technical. And you should help them. Say it, I want to help non-technical people!
+
+# Technically...
+
+Margin: the difference between how much you spent to maintain your business versus your revenue out of it.
+
+To increase the margin:
++ Lower the cost
++ Increase the revenue
++ Lower the cost and increase the revenue
+
+Unicorns are the one who could handle the 3rd situation.
