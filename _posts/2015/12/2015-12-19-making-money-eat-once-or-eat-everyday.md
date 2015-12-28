@@ -26,3 +26,19 @@ To increase the margin:
 + Lower the cost and increase the revenue
 
 Unicorns are the one who could handle the 3rd situation.
+
+# Right Price
+
+For what it's worth, definitely know you deserve what you make. Doing something you enjoy doesn't mean you are not qualify for the payment. Someone has to do it, and it's best have the guy who enjoy doing it. And choose to be paid more than less, and blame the economic of using money for it, rather than cursing your employee in the long run.
+
+Make friends and ask them how much they charge. The community game has to be played, either publicity or in stealth mode. Understand that the sale guys and the guy who develop the tech are equal. Even tho the tech guy might have spent more time making the shit work from the beginning, the tech guy should not dismiss the important of the sale guy. And vise versa, sale guys looking to establish a startup should not underestimate the value a tech guy will bring. Respect each other.
+
+The reason people cannot uphold this balance in respect is due to these story:
+
++ Tech guys creates the tech and transitioning into the sale guy and eventually make an unicorn company that shine for ages. (BG and MZ) This spark the DIY/DIO philosophy amongst young engineer, which is good...
+
++ Sale guys came up with a great idea, scouts for some great tech guy, make the stuff, got funded, then got big. By the time they reached some $M in value, the tech guy (now CTO) eventually got replaced.
+
++ Sale guys learn tech, and work on team and eventually get everything working.
+
+Haven't seen a good story where the tech guy and the sale guy agreed on a balanced term. Maybe Apple?...
