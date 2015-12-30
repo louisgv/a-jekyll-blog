@@ -42,3 +42,7 @@ The reason people cannot uphold this balance in respect is due to these story:
 + Sale guys learn tech, and work on team and eventually get everything working.
 
 Haven't seen a good story where the tech guy and the sale guy agreed on a balanced term. Maybe Apple?...
+
+Expectation need to establish before a business is started.
+
+However, when it comes to family and friendship, keep it warm and close as you wish.
