@@ -45,4 +45,6 @@ Haven't seen a good story where the tech guy and the sale guy agreed on a balanc
 
 Expectation need to establish before a business is started.
 
-However, when it comes to family and friendship, keep it warm and close as you wish.
+However, when it comes to family and friendship, keep it warm and close as you wish. But the moment you start a business, do expect diligent.
+
+Always read the term of contract. You do not want to lose the ability to do something just because a startup is exploiting an easy system to work on some stuff.
