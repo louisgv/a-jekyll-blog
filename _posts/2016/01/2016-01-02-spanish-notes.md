@@ -1,66 +1,79 @@
 ---
 layout: post
-title: "Spanish Notes"
-date: "2016-01-02 15:53"
+title: Spanish Notes
+date: '2016-01-02 15:53'
 ---
 
-Spanish  | English
-::|::
-Yo  | I
-Tu, Usted  | You
+# Pointers
+
+Spanish            | English
+------------------ | --------
+Yo                 | I
+Tu, Usted          | You
 Nosotros, Nosotras | we (m/f)
-El | he
-Ella | she
-Ellos | they
+El                 | he
+Ella               | she
+Ellos              | they
 
-::|::
+# Methods
 
-Como, comes, come  | Eat
-Hablo, hablas, habla | speak
-Bebo, bebe , beben  |  Drink
+Spanish                                | English
+-------------------------------------- | -------
+Como, comes, come                      | Eat
+Hablo, hablas, habla                   | speak
+Bebo, bebe , beben                     | Drink
 Escribo, escribe, escriben, escribimos | write
-Leo, lees, lee, leemos, leen | read
+Leo, lees, lee, leemos, leen           | read
 
-::|::
+# Fields
 
-un,una  | a/an
-El, la | the
+Spanish    | English
+---------- | ------------------
+un,una     | a/an
+El, la     | the
 Ellos, las | they, the (plural)
-no soy | am not
+no soy     | am not
+nino(s)    | boy(s)
+nina(s)    | girl(s)
+Mujer      | woman
+es         | is
 
+# Openers
 
-nino(s) | boy(s)
-nina(s)  | girl(s)
-Mujer  | woman
-es | is
+Spanish | English
+------- | ------------
+buenos  | good
+dias    | morning, day
+noches  | night
 
-::|::
+# Objects
 
-buenos | good
-dias | morning, day
-noches | night
-
-::|::
-
-libro | book
-carta | letter
-sal | salt
-azucar | sugar
-cebolla | onion
+Spanish    | English
+---------- | --------
+libro      | book
+carta      | letter
+sal        | salt
+azucar     | sugar
+cebolla    | onion
 emparedado | sandwich
-fruta | fruit
-::|::
+fruta      | fruit
 
-cela | dinner
+# Meals
 
-::|::
+Spanish | English
+------- | -------
+cela    | dinner
 
-hola | hello
-adios | bye
-gracias | thanks
-gusto | meetup
-mucho | Nice, Much
+# Phrases
+
+Spanish   | English
+--------- | ---------------
+hola      | hello
+adios     | bye
+gracias   | thanks
+gusto     | meetup
+mucho     | Nice, Much
 Lo siento | I am sorry
 por favor | please
-de nada | you are welcome
-desayuno | have breakfast
+de nada   | you are welcome
+desayuno  | have breakfast
