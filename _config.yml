@@ -3,8 +3,11 @@ title: L.A.B
 email: lgvichy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Playground and all the fun stuffs happen in the mind of a lab: food, utopisms, code, and keywords.
-# baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+baseurl: "/a-jekyll-blog/" # the subpath of your site, e.g. /blog/
+
+url: "https://louisgv.github.io" # the base hostname & protocol for your site
+
 tagline: Bibble Lamprophony Over Gattoz
 author :
   name : Louis Vichy
