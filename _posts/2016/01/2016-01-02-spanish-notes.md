@@ -21,7 +21,7 @@ Spanish                                | English
 -------------------------------------- | -------
 Como, comes, come                      | Eat
 Hablo, hablas, habla                   | speak
-Bebo, bebe , beben                     | Drink
+Bebo, bebes, bebe , beben              | Drink
 Escribo, escribe, escriben, escribimos | write
 Leo, lees, lee, leemos, leen           | read
 
