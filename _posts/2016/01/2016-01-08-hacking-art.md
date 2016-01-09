@@ -16,4 +16,4 @@ Hacking art comes from the point of view of doing what people want, and that's i
 
 Now when it comes to hacking the niche art, making what these people want are now way harder. Imagine JRPG players vs FPS players, and you will see the diff in genre. It also depends on where you live, so if you live in a place where people enjoy FPS, better make FPS. If people around you enjoy JRPG, it might be more encouraging to make those game. Thus, make your art based on your geolocation.
 
-People - Location - Future
+People - Location - Future - Culture
