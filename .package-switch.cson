@@ -1,0 +1,14 @@
+[
+  {
+    name: "atom-beautify"
+    action: "added"
+  }
+  {
+    name: "markdown-scroll-sync"
+    action: "added"
+  }
+  {
+    name: "markdown-writer"
+    action: "added"
+  }
+]
