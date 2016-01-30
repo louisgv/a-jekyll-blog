@@ -46,3 +46,5 @@ avg walking speed: 3mph
 + Implement a graph from all the location with cost being the time to travel and stay.
 + Using DFS to get the best one with lowest time cost.
 + Get a random solution using Reservoir Sampling.
+
+* How to acquire a list of place that align into a round-trip?
