@@ -22,9 +22,7 @@ author :
 production_url : https://louisgv.github.io/a-jekyll-blog
 
 # Build settings
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 
 gems:
