@@ -12,4 +12,4 @@ People know what a flow state is. Here are some tips to keep your mind within th
 
 + Make sure to setting a group to blame you if you cannot reach the goal. This group could be anyone, preferably those who are willing to give you spanking if you fail, and are willing to have sex with you if you finish the deadline.
 
-+ Have Coffee by your side, but no more than half a spoon of sugar. Sugar sooth the brain and make it fall asleep.
++ Have Coffee by your side, but no more than half a spoon of sugar. Sugar sooth the brain and make it fall asleep.  
