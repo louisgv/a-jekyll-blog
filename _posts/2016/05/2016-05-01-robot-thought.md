@@ -9,3 +9,5 @@ A blog detailing some nice to have feature of consumer robot.
 + Saving battery to get home.
 + Separate battery vault for mobilization
 + Separate modular component
++ DIY component
++
